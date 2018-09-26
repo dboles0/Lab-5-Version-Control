@@ -1,0 +1,2 @@
+This txt is used for project ideas and general concerns 
+around builds
