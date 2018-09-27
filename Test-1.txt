@@ -1,0 +1,3 @@
+this test file explaines all of the ideas added to the main project:
+
+Test-list-all scirpt list all visable and invisable files
