@@ -1,2 +1,4 @@
-This txt is used for project ideas and general concerns 
-around builds
+This txt is used for project ideas and general concerns around builds
+
+1) there are a few testing scripts that are uses; however, it 
+   is uncleare if they will be usefull
